@@ -1,0 +1,9 @@
+
+{
+  "V": "2.0",
+  "Title": "Update Available — Test",
+  "TitleColor": "#FFFFFF",
+  "Description": "Update from version {LOCAL_VERSION} to {LATEST_VERSION}. Join our Discord server for this update.",
+  "Button1": "Join Discord",
+  "LinkButton1": "https://discord.gg/PlaceHolder"
+}
